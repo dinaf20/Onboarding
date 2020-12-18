@@ -77,7 +77,7 @@ List<SliderModel> getSlides(){
 
   sliderModel = new SliderModel();
   //4
-  sliderModel.setDesc("إجراءات السفر و نصائح عامة عند الذهاب إلى أستراليا");
+  sliderModel.setDesc("إجراءات السفر و نصائح عامة \n عند الذهاب إلى أستراليا");
   sliderModel.setTitle("السفر");
   sliderModel.setImageAssetPath("assets/travel.jpg");
   sliderModel.setCol(Colors.amber);
